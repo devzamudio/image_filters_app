@@ -1,0 +1,172 @@
+BSD 3-Clause License
+
+Copyright (c) 2025, Leonardo Zamudio López
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+3. Neither the name of the copyright holder nor the names of its
+   contributors may be used to endorse or promote products derived from
+   this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+---
+
+Licencia BSD de 3 cláusulas
+
+Derechos de autor (c) 2025, Leonardo Zamudio López
+Todos los derechos reservados.
+
+La redistribución y el uso en forma de código fuente y binaria, con o sin
+modificación, están permitidos siempre que se cumplan las siguientes condiciones:
+
+1. Las redistribuciones del código fuente deben conservar el aviso de copyright anterior, esta
+   lista de condiciones y el siguiente descargo de responsabilidad.
+
+2. Las redistribuciones en forma binaria deben reproducir el aviso de copyright anterior,
+   esta lista de condiciones y el siguiente descargo de responsabilidad en la documentación
+   y/o otros materiales proporcionados con la distribución.
+
+3. Ni el nombre del titular del copyright ni los nombres de sus
+   contribuyentes pueden ser utilizados para respaldar o promover productos derivados de
+   este software sin permiso previo por escrito específico.
+
+ESTE SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍAS EXPRESAS O IMPLÍCITAS, INCLUYENDO, PERO NO LIMITADO A, LAS GARANTÍAS IMPLÍCITAS DE COMERCIABILIDAD Y ADECUACIÓN PARA UN PROPÓSITO PARTICULAR. EN NINGÚN CASO EL TITULAR DEL COPYRIGHT O LOS CONTRIBUYENTES SERÁN RESPONSABLES POR NINGÚN DAÑO DIRECTO, INDIRECTO, INCIDENTAL, ESPECIAL, EJEMPLAR O CONSECUENTE (INCLUYENDO, PERO NO LIMITADO A, LA ADQUISICIÓN DE BIENES O SERVICIOS SUSTITUTOS; PÉRDIDA DE USO, DATOS O BENEFICIOS; O INTERRUPCIÓN DEL NEGOCIO) QUE SURJA DE CUALQUIER MANERA DEL USO DE ESTE SOFTWARE, YA SEA EN CONTRATO, RESPONSABILIDAD ESTRICTA O AGRAVIO (INCLUYENDO NEGLIGENCIA O DE OTRA MANERA) QUE SURJA DEL USO DE ESTE SOFTWARE, INCLUSO SI SE ADVIERTE DE LA POSIBILIDAD DE TALES DAÑOS.
+
+---
+
+Licence BSD à 3 clauses
+
+Droits d'auteur (c) 2025, Leonardo Zamudio López
+Tous droits réservés.
+
+La redistribution et l'utilisation sous forme de code source et binaire, avec ou sans
+modification, sont autorisées à condition que les conditions suivantes soient remplies :
+
+1. Les redistributions du code source doivent conserver l'avis de droit d'auteur ci-dessus, cette
+   liste de conditions et la clause de non-responsabilité suivante.
+
+2. Les redistributions sous forme binaire doivent reproduire l'avis de droit d'auteur ci-dessus,
+   cette liste de conditions et la clause de non-responsabilité dans la documentation
+   et/ou autres matériaux fournis avec la distribution.
+
+3. Ni le nom du détenteur du droit d'auteur ni les noms de ses
+   contributeurs ne peuvent être utilisés pour approuver ou promouvoir des produits dérivés de
+   ce logiciel sans autorisation écrite préalable spécifique.
+
+CE LOGICIEL EST FOURNI "TEL QUEL", SANS AUCUNE GARANTIE EXPRESSE OU IMPLICITE, Y COMPRIS, MAIS SANS S'Y LIMITER, LES GARANTIES IMPLICITES DE QUALITÉ MARCHANDE ET D'ADAPTATION À UN USAGE PARTICULIER. EN AUCUN CAS, LE TITULAIRE DU DROIT D'AUTEUR OU LES CONTRIBUTEURS NE SERONT RESPONSABLES DE TOUT DOMMAGE DIRECT, INDIRECT, ACCESSOIRE, SPÉCIAL, EXEMPLAIRE OU CONSÉCUTIF (Y COMPRIS, MAIS SANS S'Y LIMITER, L'ACQUISITION DE BIENS OU SERVICES DE SUBSTITUTION; LA PERTE D'UTILISATION, DE DONNÉES OU DE PROFITS; OU L'INTERRUPTION D'ACTIVITÉ) DÉCOULANT DE QUELQUE MANIÈRE QUE CE SOIT DE L'UTILISATION DE CE LOGICIEL, QUE CE SOIT EN CONTRAT, RESPONSABILITÉ STRICTE OU DÉLIT (Y COMPRIS LA NÉGLIGENCE OU AUTRE) DÉCOULANT DE L'UTILISATION DE CE LOGICIEL, MÊME SI AVISÉ DE LA POSSIBILITÉ DE TELS DOMMAGES.
+
+---
+
+Licenza BSD a 3 clausole
+
+Copyright (c) 2025, Leonardo Zamudio López
+Tutti i diritti riservati.
+
+La ridistribuzione e l'uso in forma di codice sorgente e binaria, con o senza
+modifiche, sono consentiti a condizione che siano soddisfatte le seguenti condizioni:
+
+1. Le ridistribuzioni del codice sorgente devono mantenere l'avviso di copyright sopra riportato, questo
+   elenco di condizioni e la seguente dichiarazione di non responsabilità.
+
+2. Le ridistribuzioni in forma binaria devono riprodurre l'avviso di copyright sopra riportato,
+   questo elenco di condizioni e la seguente dichiarazione di non responsabilità nella documentazione
+   e/o altri materiali forniti con la distribuzione.
+
+3. Né il nome del titolare del copyright né i nomi dei suoi
+   contributori possono essere utilizzati per approvare o promuovere prodotti derivati da
+   questo software senza previa autorizzazione scritta specifica.
+
+QUESTO SOFTWARE VIENE FORNITO "COSÌ COM'È", SENZA GARANZIE ESPRESSE O IMPLICITE, INCLUSE, MA NON LIMITATE A, GARANZIE IMPLICITE DI COMMERCIABILITÀ E IDONEITÀ PER UN PARTICOLARE SCOPO. IN NESSUN CASO IL TITOLARE DEL COPYRIGHT O I CONTRIBUTORI SARANNO RESPONSABILI PER DANNI DIRETTI, INDIRETTI, INCIDENTALI, SPECIALI, ESEMPLARI O CONSEQUENZIALI (INCLUSA, MA NON LIMITATA A, L'ACQUISTO DI BENI O SERVIZI SOSTITUTIVI; PERDITA DI USO, DATI O PROFITTI; O INTERRUZIONE DELL'ATTIVITÀ) DERIVANTI IN QUALSIASI MODO DALL'USO DI QUESTO SOFTWARE, ANCHE SE AVVISATI DELLA POSSIBILITÀ DI TALI DANNI.
+
+---
+
+BSD 3-Clause Lizenz
+
+Copyright (c) 2025, Leonardo Zamudio López
+Alle Rechte vorbehalten.
+
+Die Weiterverbreitung und Nutzung in Quell- und Binärform, mit oder ohne
+Änderungen, sind unter den folgenden Bedingungen zulässig:
+
+1. Die Weiterverbreitung des Quellcodes muss den obigen Urheberrechtshinweis, diese
+   Liste der Bedingungen und den folgenden Haftungsausschluss enthalten.
+
+2. Die Weiterverbreitung in Binärform muss den obigen Urheberrechtshinweis, diese
+   Liste der Bedingungen und den folgenden Haftungsausschluss in der Dokumentation
+   und/oder anderen Materialien, die mit der Verteilung bereitgestellt werden, reproduzieren.
+
+3. Weder der Name des Urheberrechtsinhabers noch die Namen seiner
+   Beitragsleistenden dürfen zur Unterstützung oder Förderung von Produkten verwendet werden,
+   die von dieser Software abgeleitet sind, ohne vorherige schriftliche Genehmigung.
+
+DIESE SOFTWARE WIRD VOM URHEBERRECHTSINHABER UND DEN MITARBEITENDEN OHNE JEDE AUSDRÜCKLICHE ODER IMPLIZIERTE GARANTIE BEREITGESTELLT, EINSCHLIEßLICH, ABER NICHT BESCHRÄNKT AUF DIE IMPLIZIERTE GARANTIE DER MARKTFÄHIGKEIT UND EIGNUNG FÜR EINEN BESTIMMTEN ZWECK. IN KEINEM FALL SIND DER URHEBERRECHTSINHABER ODER DIE MITARBEITENDEN FÜR JEGLICHE SCHÄDEN HAFTBAR, DIE AUS DER NUTZUNG DIESER SOFTWARE ENTSTEHEN, UNABHÄNGIG VON DER RECHTSGRUNDLAGE, OB VERTRAG, STRIKTE HAFTUNG ODER UNERLAUBTE HANDLUNG (EINSCHLIESSLICH FAHRLÄSSIGKEIT) ENTSTEHEN, SELBST WENN AUF DIE MÖGLICHKEIT SOLCHER SCHÄDEN HINGEWIESEN WURDE.
+
+---
+
+BSD 3条項ライセンス
+
+著作権 (c) 2025, Leonardo Zamudio López
+全著作権所有。
+
+ソースコードおよびバイナリ形式での再配布および使用は、変更の有無にかかわらず、以下の条件を満たす場合に限り許可されます。
+
+1. ソースコードの再配布は、上記の著作権表示、本条件リスト、および以下の免責事項を含める必要があります。
+
+2. バイナリ形式での再配布は、上記の著作権表示、本条件リスト、および以下の免責事項を、配布物のドキュメントまたはその他の資料に含める必要があります。
+
+3. 著作権者の名前または貢献者の名前は、特定の事前書面許可なしに、本ソフトウェアから派生した製品の宣伝または推奨に使用してはなりません。
+
+本ソフトウェアは、商品性および特定目的適合性の黙示的保証を含むがこれに限定されない、明示的または暗黙的な保証なしに「現状のまま」提供されます。本ソフトウェアの使用に起因するいかなる損害についても、著作権者または貢献者は責任を負いません。
+
+---
+
+BSD 3조항 라이선스
+
+저작권 (c) 2025, Leonardo Zamudio López
+판권 소유.
+
+소스 및 바이너리 형식의 재배포 및 사용은 수정 여부에 관계없이 다음 조건을 충족하는 경우에 허용됩니다.
+
+1. 소스 코드 재배포는 위의 저작권 고지, 이 조건 목록 및 다음 면책 조항을 포함해야 합니다.
+
+2. 바이너리 형식의 재배포는 위의 저작권 고지, 이 조건 목록 및 다음 면책 조항을 문서 및/또는 배포 자료에 포함해야 합니다.
+
+3. 저작권자 이름 또는 기여자 이름은 특정 사전 서면 허가 없이 이 소프트웨어에서 파생된 제품을 홍보하거나 지원하는 데 사용할 수 없습니다.
+
+이 소프트웨어는 상품성 및 특정 목적 적합성에 대한 묵시적 보증을 포함하되 이에 국한되지 않는 명시적 또는 묵시적 보증 없이 "있는 그대로" 제공됩니다. 이 소프트웨어 사용으로 인해 발생하는 모든 손해에 대해 저작권자 또는 기여자는 책임을 지지 않습니다.
+
+---
+
+BSD 3条款许可证
+
+版权所有 (c) 2025, Leonardo Zamudio López
+保留所有权利。
+
+无论是否修改，均允许以源代码和二进制形式重新分发和使用，条件是满足以下条件：
+
+1. 源代码的重新分发必须保留上述版权声明、本条件列表和以下免责声明。
+
+2. 二进制形式的重新分发必须在随发行版提供的文档和/或其他材料中复制上述版权声明、本条件列表和以下免责声明。
+
+3. 未经特定事先书面许可，不得使用版权持有者或贡献者的名称为衍生产品背书或推广。
+
+本软件按“原样”提供，不附带任何明示或暗示的保证，包括但不限于对适销性和特定用途适用性的暗示保证。在任何情况下，版权持有者或贡献者均不对因使用本软件而产生的任何直接、间接、附带、特殊、示范性或后果性损害承担责任，即使已被告知可能发生此类损害。
